@@ -1,0 +1,8 @@
+
+m
+java:S1301
+"KReplace this "switch" statement by "if" statements to increase readability.(Ä†¤ÿÿÿÿÿ8¢¡Ÿ‹Ç1
+\
+java:S1118":Add a private constructor to hide the implicit public one.(¸­»¨øÿÿÿÿ8¦¡Ÿ‹Ç1
+C	java:S131
+""Add a default case to this switch.(Ä†¤ÿÿÿÿÿ8¨¡Ÿ‹Ç1
